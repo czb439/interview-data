@@ -1,0 +1,227 @@
+{
+  "version": 1,
+  "activeCategoryId": "cat-intro",
+  "activeQuestionId": "q-intro-1",
+  "categories": [
+    {
+      "id": "cat-intro",
+      "name": "自我介绍与背景"
+    },
+    {
+      "id": "cat-experience",
+      "name": "经历与成就"
+    },
+    {
+      "id": "cat-behavior",
+      "name": "行为面试"
+    },
+    {
+      "id": "cat-motivation",
+      "name": "动机与公司"
+    },
+    {
+      "id": "cat-strength",
+      "name": "优势与不足"
+    },
+    {
+      "id": "cat-role",
+      "name": "岗位与专业能力"
+    },
+    {
+      "id": "cat-ask",
+      "name": "向面试官提问"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q-intro-1",
+      "categoryId": "cat-intro",
+      "question": "Could you tell me about yourself?",
+      "hint": "现在 → 过去 → 为什么申请这个岗位；控制在 60–90 秒。",
+      "answer": "你好",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": true
+    },
+    {
+      "id": "q-intro-2",
+      "categoryId": "cat-intro",
+      "question": "Could you walk me through your résumé?",
+      "hint": "不要逐条念简历，突出与目标岗位最相关的主线。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-intro-3",
+      "categoryId": "cat-intro",
+      "question": "How would your colleagues describe you?",
+      "hint": "选择 2–3 个特点，每个特点都准备一个简短证据。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-exp-1",
+      "categoryId": "cat-experience",
+      "question": "What achievement are you most proud of?",
+      "hint": "选择能体现个人贡献、难度和可量化结果的案例。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": true
+    },
+    {
+      "id": "q-exp-2",
+      "categoryId": "cat-experience",
+      "question": "Tell me about a challenging project you worked on.",
+      "hint": "用 STAR 结构，重点讲你的判断和行动，而不是团队做了什么。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-exp-3",
+      "categoryId": "cat-experience",
+      "question": "What was your specific contribution to the project?",
+      "hint": "明确使用 I，而不是始终使用 we。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-behavior-1",
+      "categoryId": "cat-behavior",
+      "question": "Tell me about a time you handled a conflict at work.",
+      "hint": "展示倾听、找共同目标和解决问题的能力，不要批评他人。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-behavior-2",
+      "categoryId": "cat-behavior",
+      "question": "Describe a time when you failed. What did you learn?",
+      "hint": "选择真实但可控的失败，重点放在复盘和行为改变。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": true
+    },
+    {
+      "id": "q-behavior-3",
+      "categoryId": "cat-behavior",
+      "question": "Tell me about a time you had to work under pressure.",
+      "hint": "讲清楚如何排序优先级、沟通风险并保障结果。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-motivation-1",
+      "categoryId": "cat-motivation",
+      "question": "Why are you interested in this role?",
+      "hint": "岗位内容 × 你的经验 × 下一步成长，三者都要具体。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": true
+    },
+    {
+      "id": "q-motivation-2",
+      "categoryId": "cat-motivation",
+      "question": "Why do you want to work for our company?",
+      "hint": "写入真实调研：产品、业务、团队或价值观，不要只说行业领先。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-motivation-3",
+      "categoryId": "cat-motivation",
+      "question": "Where do you see yourself in five years?",
+      "hint": "表达方向感与成长意愿，同时与当前岗位保持连接。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-strength-1",
+      "categoryId": "cat-strength",
+      "question": "What is your greatest strength?",
+      "hint": "选择与岗位相关的优势，并用一个小案例证明。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-strength-2",
+      "categoryId": "cat-strength",
+      "question": "What is one area you are currently improving?",
+      "hint": "避免伪装成优点的缺点；讲清楚你正在采取的具体行动。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-role-1",
+      "categoryId": "cat-role",
+      "question": "What skills make you a strong fit for this position?",
+      "hint": "对照职位描述选择 3 项，分别给出证据。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": true
+    },
+    {
+      "id": "q-role-2",
+      "categoryId": "cat-role",
+      "question": "How do you approach learning a new skill or domain?",
+      "hint": "说明学习方法、反馈循环和近期实例。",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
+    },
+    {
+      "id": "q-ask-1",
+      "categoryId": "cat-ask",
+      "question": "What would success look like in this role during the first six months?",
+      "hint": "可直接向面试官提问，也可根据岗位调整。",
+      "answer": "",
+      "keywords": "",
+      "status": "ready",
+      "favorite": true
+    },
+    {
+      "id": "q-ask-2",
+      "categoryId": "cat-ask",
+      "question": "What are the biggest challenges the team is facing right now?",
+      "hint": "用于理解岗位真实难点，并自然承接你的经验。",
+      "answer": "",
+      "keywords": "",
+      "status": "ready",
+      "favorite": false
+    },
+    {
+      "id": "q-ask-3",
+      "categoryId": "cat-ask",
+      "question": "How would you describe the team's working style?",
+      "hint": "可追问协作方式、反馈节奏和决策机制。",
+      "answer": "",
+      "keywords": "",
+      "status": "ready",
+      "favorite": false
+    }
+  ]
+}
