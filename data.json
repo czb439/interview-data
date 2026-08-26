@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "activeCategoryId": "cat-intro",
-  "activeQuestionId": "q-intro-1",
+  "activeCategoryId": "cat-strength",
+  "activeQuestionId": "q-mta8k0rm-ggx0b",
   "categories": [
     {
       "id": "cat-intro",
@@ -221,6 +221,16 @@
       "answer": "",
       "keywords": "",
       "status": "ready",
+      "favorite": false
+    },
+    {
+      "id": "q-mta8k0rm-ggx0b",
+      "categoryId": "cat-strength",
+      "question": "New interview question",
+      "hint": "",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
       "favorite": false
     }
   ]
