@@ -1,7 +1,7 @@
 {
   "version": 1,
   "activeCategoryId": "cat-experience",
-  "activeQuestionId": "q-mu7275pi-q0c35",
+  "activeQuestionId": "q-mu72i4u5-yfqzw",
   "categories": [
     {
       "id": "cat-intro",
@@ -246,7 +246,7 @@
     {
       "id": "q-mu72i4u5-yfqzw",
       "categoryId": "cat-experience",
-      "question": "New interview question",
+      "question": "介绍你在京东的这段实习",
       "hint": "",
       "answer": "",
       "keywords": "",
