@@ -242,6 +242,16 @@
       "keywords": "",
       "status": "not_started",
       "favorite": false
+    },
+    {
+      "id": "q-mu72i4u5-yfqzw",
+      "categoryId": "cat-experience",
+      "question": "New interview question",
+      "hint": "",
+      "answer": "",
+      "keywords": "",
+      "status": "not_started",
+      "favorite": false
     }
   ]
 }
