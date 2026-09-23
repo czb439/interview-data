@@ -248,7 +248,7 @@
       "categoryId": "cat-experience",
       "question": "介绍你在京东的这段实习",
       "hint": "",
-      "answer": "在京东，我是作为采控实习生。我的工作主要在三个方面：\n首先，我负责正向的进销存补货计划，根据需求制定补货与分货计划，确保前置仓合理周转\n其次，我负责逆向退货，协助RMA同事完善退货流程，处理二次销售及报废\n最后，我制作数字化看板，去识别不健康库存数据并处理\nAt JD, I work as a replenishment and inventory control intern. My work mainly covers three areas:\nFirst, I am responsible for forward replenishment planning based on purchase, sales, and inventory data. I develop replenishment and allocation plans according to demand to ensure reasonable turnover at front warehouses.\nSecond, I am responsible for reverse returns. I assist RMA colleagues in improving the return process and handle resale and scrapping.\nThird, I create digital dashboards to identify unhealthy inventory data and address it.",
+      "answer": "在京东，我是作为采控实习生。我的工作主要在三个方面：\n首先，我负责正向的进销存补货计划，根据需求制定补货与分货计划，确保前置仓合理周转\n其次，我负责逆向退货，协助RMA同事完善退货流程，处理二次销售及报废\n最后，我制作数字化看板，去识别不健康库存数据并处理\nAt JD, I work as a replenishment and inventory control intern. My work mainly covers three areas:\nFirst, I am responsible for forward replenishment planning based on purchase, sales, and inventory data. I develop replenishment and allocation plans according to demand to ensure reasonable turnover at front warehouses.\nSecond, I am responsible for reverse returns. I assist RMA colleagues in improving the return process and handle resale .\nThird, I create digital dashboards to identify unhealthy inventory data and address it.",
       "keywords": "",
       "status": "not_started",
       "favorite": false
