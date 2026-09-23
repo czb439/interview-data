@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "activeCategoryId": "cat-intro",
-  "activeQuestionId": "q-intro-1",
+  "activeCategoryId": "cat-strength",
+  "activeQuestionId": "q-strength-1",
   "categories": [
     {
       "id": "cat-intro",
@@ -158,7 +158,7 @@
       "categoryId": "cat-strength",
       "question": "What is your greatest strength?",
       "hint": "选择与岗位相关的优势，并用一个小案例证明。",
-      "answer": "I think my greatest strength is that I work really hard.\nIn college, I studied hard and got into graduate school without taking the exam. And in my master's program, I did several internships to learn more skills and get more experience.\nI'm not the kind of person who just does the bare minimum. I always try to do my best in everything I do. If I don't know something, I'll take time to learn it. If something is difficult, I won't give up easily. I just keep going until I get it done well.\nSo yeah, I'd say hard work is my biggest strength.",
+      "answer": "我认为我的三个优势是：\n1.我非常努力，我再本科期间，用三年的努力学习去获得一个研究生推荐名额\n2.我非常自律。日常会有健身以及读书的爱好，我在完成任务的时候也很有计划\n3.我热爱供应链这个领域。所以我对工作是基于热爱，我相信我能做的更好",
       "keywords": "",
       "status": "not_started",
       "favorite": false
